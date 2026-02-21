@@ -23,7 +23,7 @@
 
 Here are some beginner projects I have worked on:
 
-- **Number Guessing Game (C)**, **Ecommerce Website(HTML, CSS, JAVASCRIPT)**, **Tic Tac Toe (HTML, CSS, JAVASCRIPT)**, **Calculator (HTML, CSS, JAVASCRIPT)**, **Weather App(HTML, CSS, JAVASCRIPT)**, More projects coming soon...
+- **Number Guessing Game (C)**, **Ecommerce Website (HTML, CSS, JAVASCRIPT)**, **Tic Tac Toe (HTML, CSS, JAVASCRIPT)**, **Calculator (HTML, CSS, JAVASCRIPT)**, **Weather App(HTML, CSS, JAVASCRIPT)**, More projects coming soon...
 
 ---
 

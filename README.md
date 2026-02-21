@@ -16,7 +16,7 @@
 
 **📚 Currently Learning**
 
-- JavaScript, Web development basics, Writing clean and simple code, Using GitHub properly.
+- JavaScript, Web development, Java, Writing clean and simple code, Using GitHub properly.
 
 ---
 **📂 Projects**
